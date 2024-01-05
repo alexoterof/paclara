@@ -1,0 +1,11 @@
+.dispotrue{
+    color: blue;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.dispofalse{
+    color: red;
+    text-decoration: underline;
+    font-weight: 600;
+}
